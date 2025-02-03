@@ -1,4 +1,4 @@
-**JANUARY 27, 2025**
+**JANUARY 27, 2025** 7:00 AM
 
 _Scrum Master_ - Gerlyn Gaoat **PRESENT**
 
@@ -10,7 +10,7 @@ _Dev2_ - Jorem Blue Bonador **PRESENT**
 
 _Tester_ - n/a
 
-**FEBRUARY 3, 2025**
+**FEBRUARY 3, 2025** 8:00 AM
 
 _Scrum Master_ - Gerlyn Gaoat **PRESENT**
 
