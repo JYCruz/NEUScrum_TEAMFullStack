@@ -1,7 +1,7 @@
 **JANUARY 27, 2025**
 1. Knowledge Task
 
-**Sprint 1**
+**FEBRUARY 3, 2025 - Start of Sprint 1**
 1. Use Case Diagram  
 2. Figma UI 
 3. User Stories (related to use case)
