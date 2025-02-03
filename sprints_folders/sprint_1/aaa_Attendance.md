@@ -1,23 +1,23 @@
-**January 27, 2025**
+**JANUARY 27, 2025**
 
-Scrum Master - Gerlyn Gaoat **PRESENT**
+_Scrum Master_ - Gerlyn Gaoat **PRESENT**
 
-UI - Josh Yvan Cruz **PRESENT**
+_UI_ - Josh Yvan Cruz **PRESENT**
 
-Dev1 - Jairus Joshua Ramos **PRESENT**
+_Dev1_ - Jairus Joshua Ramos **PRESENT**
 
-Dev2 - Jorem Blue Bonador **PRESENT**
+_Dev2_ - Jorem Blue Bonador **PRESENT**
 
-Tester - n/a
+_Tester_ - n/a
 
-**February 3, 2025**
+**FEBRUARY 3, 2025**
 
-Scrum Master - Gerlyn Gaoat **PRESENT**
+_Scrum Master_ - Gerlyn Gaoat **PRESENT**
 
-UI - Josh Yvan Cruz **PRESENT**
+_UI_ - Josh Yvan Cruz **PRESENT**
 
-Dev1 - Jairus Joshua Ramos **PRESENT**
+_Dev1_ - Jairus Joshua Ramos **PRESENT**
 
-Dev2 - Jorem Blue Bonador **PRESENT**
+_Dev2_ - Jorem Blue Bonador **PRESENT**
 
-Tester - Kent Russel Balajadia (pending member) **PRESENT**
+_Tester_ - Kent Russel Balajadia (pending member) **PRESENT**
