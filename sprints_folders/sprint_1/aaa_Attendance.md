@@ -21,3 +21,15 @@ _Dev1_ - Jairus Joshua Ramos **PRESENT**
 _Dev2_ - Jorem Blue Bonador **PRESENT**
 
 _Tester_ - Kent Russel Balajadia (pending member) **PRESENT**
+
+**FEBRUARY _, 2025** (next meeting TBA)
+
+_Scrum Master_ - Gerlyn Gaoat 
+
+_UI_ - Josh Yvan Cruz 
+
+_Dev1_ - Jairus Joshua Ramos 
+
+_Dev2_ - Jorem Blue Bonador 
+
+_Tester_ - Kent Russel Balajadia (pending member) 
