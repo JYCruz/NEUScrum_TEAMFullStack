@@ -2,8 +2,8 @@
 1. Knowledge Task
 
 **Sprint 1**
-1. Use Case Diagram   -   Bonador, Cruz, Ramos
-2. Figma UI   -   Gaoat
-3. User Stories (related to use case)   -   Gaoat, Ramos
+1. Use Case Diagram  
+2. Figma UI 
+3. User Stories (related to use case)
 4. Schedule Functionality (to be done first)
-5. Functionality To Be Used   -   Cruz
+5. Functionality To Be Used
